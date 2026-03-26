@@ -2,12 +2,12 @@ import { initializeApp, getApps, getApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  "projectId": "studio-9993151920-80cdd",
-  "appId": "1:192936509891:web:beb9f9b5d34392d97e3d76",
-  "apiKey": "AIzaSyB7jp4c_X7p6guhNyRz23P3G76mIUL5K5Q",
-  "authDomain": "studio-9993151920-80cdd.firebaseapp.com",
+  "projectId": "",
+  "appId": "",
+  "apiKey": "",
+  "authDomain": "",
   "measurementId": "",
-  "messagingSenderId": "192936509891"
+  "messagingSenderId": ""
 };
 
 // Initialize Firebase
